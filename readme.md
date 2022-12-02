@@ -2,6 +2,8 @@
 
 Uses ECDSA digital signatures via private / public key encryption to securely transfer crypto form one account to another.
 
+!(App Screenshot)[https://github.com/Tej-Sharma/ECDSA-Secure-Crypto-Transfer/blob/main/app_screenshot.png?raw=true]
+
 Uses Elliptic Curve Digital Signatures (ECDSA) so the server only allows transfers that have been signed for by the person who owns the associated address.
 
 Made as part of Alchemy University's Ethereum developer bootcamp.
